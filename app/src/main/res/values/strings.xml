@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">List</string>
+
+    <string-array name="Groceries">
+        <item>BigBasket</item>
+        <item>Paytm</item>
+        <item>Amazon</item>
+        <item>Grofers</item>
+        <item>ZopNow</item>
+    </string-array>
+
+</resources>
